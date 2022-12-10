@@ -12,6 +12,7 @@
 
 
             Console.WriteLine($"{a}%{b}={a%b}");
-        }
+            Console.WriteLine("salam");
+        } 
     }
 }
